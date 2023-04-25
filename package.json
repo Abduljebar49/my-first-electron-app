@@ -1,0 +1,16 @@
+{
+  "name": "my-first-electonjs-app",
+  "version": "1.0.0",
+  "description": "",
+  "packageName": "My first App",
+  "main": "main.js",
+  "scripts": {
+    "test": "test",
+    "start": "electron ."
+  },
+  "author": "Abduljebar Sani",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^24.1.2"
+  }
+}
